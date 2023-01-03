@@ -1,0 +1,6 @@
+[
+{"Coordenada Z":0,"tiempo":0,"Coordenada Y":-8.8,"Coordenada X":0,"ID":0,"Velocidad":0}
+{"Coordenada Z":0,"tiempo":0,"Coordenada Y":7.599999999999998,"Coordenada X":0,"ID":1,"Velocidad":0}
+{"Coordenada Z":0,"tiempo":0,"Coordenada Y":-8.8,"Coordenada X":25.2,"ID":2,"Velocidad":0}
+{"Coordenada Z":0,"tiempo":0,"Coordenada Y":7.599999999999998,"Coordenada X":25.2,"ID":3,"Velocidad":0}
+]

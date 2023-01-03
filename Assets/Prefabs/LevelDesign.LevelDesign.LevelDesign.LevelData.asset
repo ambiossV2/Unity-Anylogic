@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 670ad16e6abf4aa4b9b9c6bb5ea81170, type: 3}
+  m_Name: LevelDesign.LevelDesign.LevelDesign.LevelData
+  m_EditorClassIdentifier: 
+  levelData:
+    prefabGUID: 86aa42d155ed5934bb16ce810d380fb0
+    mainSet: {fileID: 11400000, guid: 5c68f49ae842d3c44841737380909fb8, type: 2}
+    objectsSet: {fileID: 11400000, guid: 338340c5f485df24cb45c8831b969b62, type: 2}
+    optionsSettings:
+      moveSnap: 1
+      rotationSnap: 22.5
+      wallsManipulatorsHeight: 1
+      hoverResponsiveHandles: 1
+    visibilitySettings:
+      movement: 1
+      rotation: 1
+      walls: 1
+      wallsMovement: 1
+      wallsRotation: 1
+      wings: 1
+      wingsGrowth: 1
+      wingsLines: 1
+      objects: 1
+      floors: 1
+      hidden: 0
+    wallsData:
+    - simpleObjectData:
+        fileID: 8422355584797354287
+      type: 1
+      wingsData:
+      - growDirection: {x: 1, y: 0, z: 0}
+        chainFileIDs: 
+        capFileID: 5935979917380876197
+      - growDirection: {x: 0, y: 0, z: -1}
+        chainFileIDs: 
+        capFileID: 6848567308386995
+    - simpleObjectData:
+        fileID: 3424010824633282384
+      type: 1
+      wingsData:
+      - growDirection: {x: 1, y: 0, z: 0}
+        chainFileIDs: 55a661dfc526143937987e7c3f29c272baa52ad98b571e14b315656569c69767cbf32b1fe3c4e248a1683d08a467b6368922714e7d8f104ec0c97ba0d8541f071bf3c85c0806e433b43b9522cc4c20701980687e471bd708
+        capFileID: 2284902972878197540
+      - growDirection: {x: 0, y: 0, z: -1}
+        chainFileIDs: 
+        capFileID: 6045795357190176617
+    simpleObjectsData:
+    - fileID: 8506573856891968391
+    - fileID: 7831422055890477958
+    - fileID: 6093415718095678514
+    - fileID: 2165930649377579454
+    - fileID: 6586456025915888571
+    - fileID: 4945037672438619244
+    - fileID: 5419144392782374170
+    - fileID: 4191239182473592643
+    - fileID: 50975689811932298
+    - fileID: 1307300062570919437
+    - fileID: 6312130063277114951
+    floorsData:
+    - simpleObjectData:
+        fileID: 148657392500826966
+      prefabGUID: c5a6408687f4a6642b89fd6ea8b7b302
+      size: 2
+      tilesFileIDsWidth: 12
+      startingRow: 0
+      startingCol: 2
+      tilesFileIDs: 605d298c8a6f53350895248b8e3c227fdb9a6b1c9629097ea311d6a2605d6b25778cb555a6163779f2a2ec125d53092ed5f0452e549bb73bc5efedb28c5c6e499c7a10bebd7f90594979171916fed72a097666db51667061bdad7dac548383078457fd313a3b8a64a65bd7d2fdd2e6619b1b1d07b24434491fa1c3864e95312fa54f1898e6c38d329de8bb118b06410641745eeb5cfc9f0e00882a0c5181b9567bf977c629c83414f900ee1e298f8d0593d2248101c8ad265a1d50ab11354f68a7b488d6f832955008788e37eaacd56575ebccc1b752551de1f42b5a3af90654d8c42a11e66d6174a3c01e338c57f658c87c28dc85aa8e4142a80bdbf5aa211a8783e7105f8e7a318d81aa1ec3886e2454bf66e55115977c2859e2cb36097e265e7b9bc242330b67b3919f7f2aa1d656b2f4c6f4eaa38c07fdd91dd3cf142954007985a62832de60a2d08ac2d578df1002469e04cd931e0041364ea8bb9c186caa383beaf2e19a0f60953ac029297f2ac1ec75db953de133c2020900eb4d436ce6d436c4666fb95c9216b861f21a4f4ab1d95ed4b7550b6e109666044db08b1d0fe861afabab4e74a0a6aa5c88201005ea2fff9e568bca1d3664be887fc2151294cf5f9204ceec22d97c34231a78ab3080280bcc9727b031f741e31f0ac1ab2f7d05fa221bf7c51a3ebb31f92ee6540cb66751c4e336951b7b404494ffe0cf359136a182795505132f689d92f0f1621a90678d2dc3d2b1473acf10c81e59510d5a6301489caca867614d75badc35832a17a844649405914a4983e5ebe953406f

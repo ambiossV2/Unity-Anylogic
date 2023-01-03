@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4720966e36f36e54f993c5189140844b, type: 3}
+  m_Name: LevelDesigner
+  m_EditorClassIdentifier: 
+  managed:
+  - identity: 2
+    instanceID: 0
+    GUID: 3cef2f915d435564082fb0c1696d3765
+    fileID: 5994139911943994682
+    rootGUID: b6c20a7b777c8c8489da121259db8e02
+  - identity: 2
+    instanceID: 0
+    GUID: 975d2fe7f04325144a4e5f7453f68b21
+    fileID: 1985574359758670669
+    rootGUID: d17f3c67fa98dbf4aa8f317d81262c62
+  - identity: 2
+    instanceID: 0
+    GUID: c5a6408687f4a6642b89fd6ea8b7b302
+    fileID: 2554577193342071552
+    rootGUID: 2da68a3e22de630469d9d802c5fa1813
+  - identity: 2
+    instanceID: 0
+    GUID: fa0ca535212819445841d73de7021d9b
+    fileID: 5347689397807675905
+    rootGUID: 86aa42d155ed5934bb16ce810d380fb0
+  - identity: 2
+    instanceID: 0
+    GUID: 14fba8b2c98502f4bb1d4f0386206eb0
+    fileID: 559682800393620245
+    rootGUID: 29e97100a0faab74783c23bbd28be55e
+  - identity: 2
+    instanceID: 0
+    GUID: 86aa42d155ed5934bb16ce810d380fb0
+    fileID: 148657392500826966
+    rootGUID: ed3ed7ea253ca8f4f8f2e2c62e8e64bd
+  - identity: 2
+    instanceID: 0
+    GUID: 2da68a3e22de630469d9d802c5fa1813
+    fileID: 4592867088437611428
+    rootGUID: a0fea8f0a905cf54ebea61c5b9970b56
+  - identity: 2
+    instanceID: 0
+    GUID: ed3ed7ea253ca8f4f8f2e2c62e8e64bd
+    fileID: 2568997423389290325
+    rootGUID: 67e67eadc79e6314fbb5422c44f28ab2
+  - identity: 2
+    instanceID: 0
+    GUID: 54715bae0ae09a44fbbc81c88f9b8e81
+    fileID: 2491468853336758386
+    rootGUID: b544ccc3b1ed2e244baf10e7c0b0c908
+  - identity: 2
+    instanceID: 0
+    GUID: 86aa42d155ed5934bb16ce810d380fb0
+    fileID: 0
+    rootGUID: e9d74f59337c044478601da454afd48c
+  - identity: 2
+    instanceID: 0
+    GUID: 86aa42d155ed5934bb16ce810d380fb0
+    fileID: 487184348064446483
+    rootGUID: af6daf0800f29c24094952ba242c0bfe
+  - identity: 2
+    instanceID: 0
+    GUID: a0fea8f0a905cf54ebea61c5b9970b56
+    fileID: 6006146577467554877
+    rootGUID: 85da777732bb7f14f899d6449e461157
